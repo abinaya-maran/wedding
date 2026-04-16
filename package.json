@@ -1,5 +1,5 @@
 {
-  "name": "aditya-priya-wedding",
+  "name": "arulprakasam-abinaya-wedding",
   "version": "1.0.0",
   "description": "A beautiful traditional Indian wedding website inspired by sacred temples, ornate designs, and elegant celebrations",
   "main": "index.html",
@@ -12,6 +12,6 @@
     "vedic",
     "invitation"
   ],
-  "author": "Aditya & Priya",
+  "author": "Arulprakasam & Abinaya",
   "license": "MIT"
 }
