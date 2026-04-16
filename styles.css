@@ -269,7 +269,7 @@ body {
 /* Couple Image Box */
 .couple-image-box {
     margin: 40px 0 20px 0;
-    animation: fadeInUp 0.8s ease-out 0.8s backwards;
+    animation: fadeInUp 5s ease-out 1s backwards;
 }
 
 .image-content {
