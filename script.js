@@ -37,7 +37,7 @@ function generateFlowers() {
         flower.className = 'flower';
         flower.textContent = flowers[Math.floor(Math.random() * flowers.length)];
         flower.style.left = Math.random() * 100 + '%';
-        flower.style.top = '-50px';
+        flower.style.top = '-60px';
         flower.style.animationDuration = (10 + Math.random() * 15) + 's';
         flower.style.animationDelay = Math.random() * 5 + 's';
         flowersContainer.appendChild(flower);
